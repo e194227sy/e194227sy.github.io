@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+    font-family: "";
+    text-align: center;
+    background-color: silver;
+}
+
+h2{
+    color: white;
+    background-color: navy;
+    text-align: center;
+}
+
+h3{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+body{
+    background-image: url("../images/Metal%20Blue.jpg");
+    background-position: center center;
+}
