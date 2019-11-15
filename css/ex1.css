@@ -1,0 +1,38 @@
+h1{
+    color: red;
+    font-family: "";
+    text-align: center;
+    background-color: black;
+}
+
+h2{
+    color: blue;
+    background-color: black;
+    text-align: center;
+}
+
+table{
+    color: blue;
+    font-weight: bold;
+    background-color: white;
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-weight: bold;
+
+}
+
+body{
+    background-image: url("../images/Red Triangle.jpg");
+    background-position: center center;
+}
+
+ol{
+    color: white;
+}
+
+address{
+    color: white;
+}
