@@ -1,0 +1,32 @@
+body{
+    background-image: url("../images/Japan%20Blue.jpg");
+    background-position: center center;
+}
+
+h1{
+    color: skyblue;
+    background-color: blue;
+    text-align: center;
+}
+
+h2#A{
+    color: green;
+    background-color: maroon;
+    text-align: center;
+}
+
+h2#B{
+    color: cornflowerblue;
+    background-color: darkblue;
+    text-align: center;
+}
+
+h2#C{
+    color: yellow;
+    background-color: black;
+    text-align: center;
+}
+
+p{
+    color: red
+}
