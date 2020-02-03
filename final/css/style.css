@@ -1,0 +1,137 @@
+div.all{
+    width : 910px;
+    margin : 0px auto;
+}
+
+div.title{
+    width: 900px;
+    height: 70px;
+    margin-bottom:20px;
+    font-family: Motorwerk;
+    color: red;
+    background-color: navy;
+    text-align: center;
+}
+
+div.overview{
+    width: 855px;
+    height: px;
+    margin-bottom:20px;
+    font-family: 游ゴシック;
+    color: white;
+    background-color: black;
+    margin-left:25px;
+    text-align: center;
+}
+
+div.mein{
+    margin-bottom:20px;
+    font-size: 0;
+}
+
+div.menu{
+    display: inline-block;
+    vertical-align : top;
+    font-family: Motorwerk;
+    background-color: darkturquoise;
+    width: 220px;
+}
+
+div.menu1{
+    width: 200px;
+    height: 30px;
+    background-color: magenta;
+    text-align: left;
+    margin-bottom:5px;
+    margin-top:5px;
+    margin-left:15px;
+}
+
+div.menu2{
+    width: 200px;
+    height: 30px;
+    background-color: red;
+    text-align: left;
+    color: white;
+    margin-bottom:5px;
+    margin-top:5px;
+    margin-left:5px;
+    margin-right:15px;
+}
+
+div.content{
+    font-family: 游ゴシック;
+    display: inline-block;
+    vertical-align : top;
+    margin-left:20px;
+}
+
+div.menutitle{
+    background-color: brown;
+    color: blue;
+    width:666px;
+    height: 40px;
+    font-family: Motorwerk;
+}
+
+div.menutitleK{
+    background-color: black;
+    color: green;
+    width:666px;
+    height: 40px;
+    font-family: Motorwerk;
+}
+
+div.menutitleI{
+    background-color: paleturquoise;
+    color: white;
+    width:666px;
+    height: 40px;
+    font-family: Motorwerk;
+}
+
+div.menutitleO{
+    background-color: navy;
+    color: white;
+    width:666px;
+    height: 40px;
+    font-family: Motorwerk;
+}
+
+div.menutitleIM{
+    background-color: black;
+    color: white;
+    width:666px;
+    height: 40px;
+    font-family: Motorwerk;
+}
+
+div.text{
+    color: blue;
+    background-color: gray;
+}
+
+div.textK{
+    color: magenta;
+    background-color: blue;
+}
+
+div.textI{
+    color: royalblue;
+    background-color: snow;
+}
+
+div.textO{
+    color: mediumpurple;
+    background-color: black;
+}
+
+div.textIM{
+    color: black;
+    background-color: white;
+}
+
+body{
+    background-image: url("../images/BW.jpg");
+    background-position: center center;
+}
